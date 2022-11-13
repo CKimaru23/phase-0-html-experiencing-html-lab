@@ -1,0 +1,36 @@
+{
+  "stats": {
+    "suites": 1,
+    "tests": 1,
+    "passes": 1,
+    "pending": 0,
+    "failures": 0,
+    "start": "2022-11-13T13:36:41.521Z",
+    "end": "2022-11-13T13:36:41.528Z",
+    "duration": 7
+  },
+  "tests": [
+    {
+      "title": "should be present",
+      "fullTitle": "my_list.html should be present",
+      "file": "/home/moringa/Development/code/HTML-Lab/test/index.html.test.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "should be present",
+      "fullTitle": "my_list.html should be present",
+      "file": "/home/moringa/Development/code/HTML-Lab/test/index.html.test.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    }
+  ]
+}
